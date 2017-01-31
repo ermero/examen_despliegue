@@ -14,7 +14,7 @@ if(isset($_GET['id'])==true){
 	include "view/noticia/index.php";
 }
 
-dsd
+dsdwsdsdsdsd
 
 
 
