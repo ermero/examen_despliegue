@@ -18,7 +18,7 @@ for($i=0;$i<sizeof($noticias);$i++){
 	<?php
 }dsd
 ?>
-</div>
+</div>dsds
 <?php
 
 include "view/includes/footer.php";
