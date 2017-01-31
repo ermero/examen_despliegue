@@ -4,7 +4,7 @@ include "view/includes/head.php";
 include "view/includes/menu.php";
 
 ?>
-<article>
+<article>feferf
 	<h1> <?php echo $noticia['subtitulo']?></h1>
 	<p> <?php echo $noticia['descripcion']?></p>
 	<img src="/go.es/view/imagenes/<?php echo $noticia['imagen']?>">
